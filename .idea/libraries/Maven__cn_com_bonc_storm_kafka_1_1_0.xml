@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.bonc:storm-kafka:1.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/bonc/storm-kafka/1.1.0/storm-kafka-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/bonc/storm-kafka/1.1.0/storm-kafka-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/com/bonc/storm-kafka/1.1.0/storm-kafka-1.1.0-sources.jar!/" />
+      <root url="file://C:/Program Files (x86)/Java/jre1.8.0_111" />
+    </SOURCES>
+  </library>
+</component>
